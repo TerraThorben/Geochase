@@ -18,6 +18,12 @@ Also, questions and locations are suggested for team building exercises and addi
 ## Content
 ...
 
+[Purpose](https://github.com/TerraThorben/Geochase/blob/main/subchapters/01_Purpose)
+[Preparation](https://github.com/TerraThorben/Geochase/blob/main/subchapters/02_Preparation)
+[First organisational Questions](https://github.com/TerraThorben/Geochase/blob/main/subchapters/03_AdminQuest)
+[Start Questions](https://github.com/TerraThorben/Geochase/blob/main/subchapters/04_StartQuest)
 
+[Last Questions]()
 
+[e.g. Uppsala Chase]
 

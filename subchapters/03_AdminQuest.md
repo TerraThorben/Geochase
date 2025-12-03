@@ -1,0 +1,8 @@
+# Which information to you need from the students
+## To grade or not to grade is the question
+
+The first questions can be administrational by porpuse. If you want to grade or check presence of students, the students should note their names. Here, there is an option to be creative a take a team picture, give themselves a team name or note their favourite mineral.
+
+
+
+Questions for start:

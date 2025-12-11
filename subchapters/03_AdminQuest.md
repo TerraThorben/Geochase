@@ -6,3 +6,11 @@ The first questions can be administrational by porpuse. If you want to grade or 
 
 
 Questions for start:
+
+- What is your team-name?
+- Who is in your team?
+- Please, take a team picture for your memory.
+
+
+## Advice and Saftey instructions to students
+

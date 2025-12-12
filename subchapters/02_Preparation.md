@@ -6,8 +6,10 @@ Setting up a chase/scavenger hunt takes effort and time. You need to scout the c
 
 
 ### _Advice - avoid long distances between locations_
-The might be a suberp facade at one side of the city and another fascinating sculpture in the park on the other side of the city.
-If the distance if to far, it is worth to skip one of the location if it is off the main route of the chase, although the minerals inside are outstanding. Think about the time students need to walk and answering questions. 
+The might be a suberp facade at one side of the city and another fascinating sculpture in the park on the other side of the city. However, if distances between stations are too far, it is worth to skip one of the location, especially if it is off from the main route of the chase, although the minerals inside are outstanding. Think about the time students need to walk and answering questions. 
+
+### _Advice - avoid temporal locations_
+Choose stations/locations, which are expected to last long. E.g., sculptures, temporal exhibitions, signs at buildings or loose rocks in the park might be moved during the year.Updating many stations each year in a chase costs extra time. Also, if you have a guessing question to the students, e.g. "How old is the building?", then you need to update the answer each year (which is an additional task to think about every year).  
 
 ## Paper or App?
 

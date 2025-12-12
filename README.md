@@ -20,7 +20,7 @@ The following chapters provide insights and support for creating a chase, **step
 Starting from scratch, first questions to designing questions and examples.
 Each chapter explains the general purpose and procedure for this step, and shows how it is 
 implemented in the examples of 
-<span style="color:#40B0A6">the _Geochase in Uppsala_ (highlighted by the colour: turquoise).</span>.
+<span style="color:blue">the _Geochase in Uppsala_ (highlighted by the colour: turquoise).</span>.
 
 - [Purpose](https://github.com/TerraThorben/Geochase/blob/main/subchapters/01_Purpose.md)
 - [Preparation](https://github.com/TerraThorben/Geochase/blob/main/subchapters/02_Preparation.md)

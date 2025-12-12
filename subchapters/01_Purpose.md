@@ -11,9 +11,19 @@ Such a chase is filling the gap between theory in class and practical experience
 - enriching teaching activity
 - reaching students in a different way
 
+- different types of rocks are easy to access
+- flexibility of chase (adapting level of knowledge)
+- interaction with the city + sustainable knowledge
+
+  _student quote: "I cannot go to my favourite coffee place anymore without thinking about the minerals at the entrance."_
+
 
 **Disadvantage**
-- Takes time (scouting city, designing questions and feedback, setting up the app, ...)
+- extensive preparation time (scouting city, designing questions and feedback, setting up the app, ...)
+- no hammering, no scratching, no acid
+- perfect polished rocks/facades (not as in nature)
+- no relationship between rocks (e.g. contact, orientation, ...)
+
 
 
 

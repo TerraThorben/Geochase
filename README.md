@@ -16,17 +16,22 @@ The suggested questions in this project are targeting students, who started stud
 Also, questions and locations are suggested for team building exercises and additional fundamental knowledge in Geosciences.
 
 ## Content
-...
+The following chapters provide insights and support for creating a chase, **step by step**.
+Starting from scratch, first questions to designing questions and examples.
+Each chapter explains the general purpose and procedure for this step, and shows how it is 
+implemented in the examples of 
+<span style="color:#40B0A6">the _Geochase in Uppsala_ (highlighted by the colour: turquoise).</span>.
 
 - [Purpose](https://github.com/TerraThorben/Geochase/blob/main/subchapters/01_Purpose.md)
-- [Preparation](https://github.com/TerraThorben/Geochase/blob/main/subchapters/02_Preparation)
-- [First organisational Questions](https://github.com/TerraThorben/Geochase/blob/main/subchapters/03_AdminQuest)
-- [Start Questions](https://github.com/TerraThorben/Geochase/blob/main/subchapters/04_StartQuest)
-- 
+- [Preparation](https://github.com/TerraThorben/Geochase/blob/main/subchapters/02_Preparation.md)
+- [First organisational Questions](https://github.com/TerraThorben/Geochase/blob/main/subchapters/03_AdminQuest.md)
+- [Start Questions](https://github.com/TerraThorben/Geochase/blob/main/subchapters/04_StartQuest.md)
+- [Start Questions](https://github.com/TerraThorben/Geochase/blob/main/subchapters/05_ExUppsala.md)
+- [Q - General Rocks and Cycle] ()
+- [Q - Skills in Geology](https://github.com/TerraThorben/Geochase/blob/main/subchapters/geoskills.md)
+- [Q - local Stations](https://github.com/TerraThorben/Geochase/blob/main/subchapters/stations.md)
+- [Q - Teambuilding and Fun](https://github.com/TerraThorben/Geochase/blob/main/subchapters/teambuilding.md)
 
-[Last Questions]()
-
-[e.g. Uppsala Chase]
 
 ## Acknowledgement
 

@@ -15,12 +15,17 @@ Also, it provides ideas and inspiration to design such chase.
 The suggested questions in this project are targeting students, who started studying minerals, rocks and the rock cycle.
 Also, questions and locations are suggested for team building exercises and additional fundamental knowledge in Geosciences.
 
+
+
+
+
 ## Content
 The following chapters provide insights and support for creating a chase, **step by step**.
 Starting from scratch, first questions to designing questions and examples.
 Each chapter explains the general purpose and procedure for this step, and shows how it is 
-implemented in the examples of 
-<span style="color:blue">the _Geochase in Uppsala_ (highlighted by the colour: turquoise).</span>.
+implemented in the examples of the _Geochase in Uppsala_.
+
+General Steps for creating a chase:
 
 - [Purpose](https://github.com/TerraThorben/Geochase/blob/main/subchapters/01_Purpose.md)
 - [Preparation](https://github.com/TerraThorben/Geochase/blob/main/subchapters/02_Preparation.md)
@@ -30,12 +35,12 @@ implemented in the examples of
 - [Start Questions](https://github.com/TerraThorben/Geochase/blob/main/subchapters/06_StartQuest.md)
 
 
-
-- [Start Questions](https://github.com/TerraThorben/Geochase/blob/main/subchapters/05_ExUppsala.md)
-- [Q - General Rocks and Cycle] ()
-- [Q - Skills in Geology](https://github.com/TerraThorben/Geochase/blob/main/subchapters/geoskills.md)
-- [Q - local Stations](https://github.com/TerraThorben/Geochase/blob/main/subchapters/stations.md)
-- [Q - Teambuilding and Fun](https://github.com/TerraThorben/Geochase/blob/main/subchapters/teambuilding.md)
+Specific Ideas and Questions:
+- [Overview of Geochase in Uppsala](https://github.com/TerraThorben/Geochase/blob/main/subchapters/07_ExUppsala.md)
+- [General Questions about Rocks and Cycle] (https://github.com/TerraThorben/Geochase/blob/main/subchapters/08_questionsex.md)
+- [Skills in Geology](https://github.com/TerraThorben/Geochase/blob/main/subchapters/09_geoskills.md)
+- [local Stations](https://github.com/TerraThorben/Geochase/blob/main/subchapters/10_stations.md)
+- [Teambuilding and Fun](https://github.com/TerraThorben/Geochase/blob/main/subchapters/11_teambuilding.md)
 
 
 ## Acknowledgements

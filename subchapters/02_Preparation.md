@@ -41,10 +41,16 @@ The first two apps work very similar and the backends are straightforward to set
 If students work and you want to see who participates, follow the advice in the next chapter.
 
 ## The right balance
-It is important to have good balance between the different activities and types of questions within a chase. However, running a chase over several semsters allows modifying/improving  the chase continously.
+It is important to have good balance between the different activities and types of questions within a chase. However, running a chase over several semesters allows modifying/improving  the chase continously.
 
 Think about the technical opportunities and limitations as well as potential of the city. 
 Check out the question types with its dis-/advantages here.
+
+Another balance should be considered among the question topics: Minerals, Rocks, Rock Cycle & General Knowledge.
+
+
+
+
 
 
 

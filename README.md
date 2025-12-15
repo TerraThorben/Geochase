@@ -11,7 +11,7 @@ This Github project summarizes main tasks and thoughts in order to prepare a loc
 Also, it provides ideas and inspiration to design such chase.
 
 
-![Geochase in Uppsala](subchapters\img\GC_header.jpg)
+![Geochase in Uppsala](subchapters/img/GC_header.jpg)
 
 
 

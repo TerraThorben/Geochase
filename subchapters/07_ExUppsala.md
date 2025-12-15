@@ -18,7 +18,7 @@ The **facades are choosen** to allow at least asking three questions about the t
 
 In addition, the **cathedral of Uppsala** is rich in a variation rocks hosting sedimentary rocks with fossils inside, marble and dolorite pillars, statures out of limestone and granite, and more. Here, one variation of the trip aims to sketch the main entrance of the cathedral and the different rocks should be described by colour, mineral/fossil content etc.
 
-![Cathedral in Uppsala](img/GC_CathedralSketch.jpg)
+![Cathedral in Uppsala](img/GC_UppsalaCathedralSketch.jpg)
 
 **Also**, I used a copper roof (now in turqouise/green) of a hotel building to ask about oxidation of copper, an iron bridge to ask about iron mining and mining history in Sweden, typical red paint at wooden houses (to protect the wood by using an oxidised iron paint, which is a by-product from mining), the river and fish-stairs to ask about environmental issues, hydrolisis effects on concrete bridges, a viewing point at the castle to ask about orientations, and many more that can be found here.
 

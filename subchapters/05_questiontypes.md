@@ -16,7 +16,7 @@ E.g.,
 - This brigde is made out of steel and iron. Do you know a mining area in this country?
 - What is your name and team name?
 
-![Paper version](img\GC_PenPaper_vs_App.jpg)
+![Paper version](img/GC_PenPaper_vs_App.jpg)
 
 
 ### Multiple Choice

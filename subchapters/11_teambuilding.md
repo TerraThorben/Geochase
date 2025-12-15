@@ -27,4 +27,4 @@ Do not use your watch or other smartphone. Be creative.
 all pictures from all groups for a fun exercise during the next class.
  Subjects: Volcano eruption, Tsumani, Rock Cycle, Paleontology, Meteorite Impact.
 
- ![Examples from Uppsala Geochase](img\GC_Upps_charade1.jpg)
+ ![Examples from Uppsala Geochase](img/GC_Upps_charade1.jpg)

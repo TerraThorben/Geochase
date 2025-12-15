@@ -51,16 +51,16 @@ The first two apps work very similar and the backends are straightforward to set
 _The evaluation the Geochase in Uppsala states that 93% of all participant prefer an app version instead of paper._
 
 
-![Paper vs App](img\GC_Paper_vs_App.jpg)
+![Paper vs App](img/GC_Paper_vs_App.jpg)
 
 
 ## Setting up with an App
 Setting up a chase with an app is straight forward. There is not much programming skills needed. In most cases, the apps use a drop down menu and boxes to fill. Consequently, using one of the apps solves the technical concerns and also, there is a support team offering additional services for support.
 
 
-![Example of setting up Questions in myPeek](img\GC_peek_setup_2.jpg)
+![Example of setting up Questions in myPeek](img/GC_peek_setup_2.jpg)
 
-![Example of setting up Questions in myPeek](img\GC_peek_setup_1.jpg)
+![Example of setting up Questions in myPeek](img/GC_peek_setup_1.jpg)
 
 
 

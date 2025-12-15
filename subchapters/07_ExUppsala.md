@@ -1,6 +1,6 @@
 ## Examples of locations and questions from Uppsala
 
-![Uppsala Map](img\GC_Uppsala_map.jpg)
+![Uppsala Map](img/GC_Uppsala_map.jpg)
 
 
 

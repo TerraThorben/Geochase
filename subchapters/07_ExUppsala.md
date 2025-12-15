@@ -1,5 +1,9 @@
 ## Examples of locations and questions from Uppsala
 
+![Uppsala Map](img\GC_Uppsala_map.jpg)
+
+
+
 ## Geochase in Uppsala - Overview
 
 Uppsala has the advantage to host a great variation of facades, buildings, a river, parks and the Geocentrum in a close distance to each other. 

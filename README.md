@@ -46,6 +46,7 @@ General Steps for creating a chase:
 
 Specific Ideas and Questions:
 - [Overview of Geochase in Uppsala](https://github.com/TerraThorben/Geochase/blob/main/subchapters/07_ExUppsala.md)
+- [Excerpt of Geochase in Uppsala](https://github.com/TerraThorben/Geochase/blob/main/subchapters/07_ExUppsala_Quests.md) 
 - [General Questions about Rocks and Cycle](https://github.com/TerraThorben/Geochase/blob/main/subchapters/08_questionsex.md)
 - [Skills in Geology](https://github.com/TerraThorben/Geochase/blob/main/subchapters/09_geoskills.md)
 - [local Stations](https://github.com/TerraThorben/Geochase/blob/main/subchapters/10_stations.md)
@@ -54,5 +55,5 @@ Specific Ideas and Questions:
 
 ## Acknowledgements
 
-This HE Teaching Material was supported by the EGU Higher Education Teaching Material Grant 2025. I would like to thank _myPeek_ for technical support and advice, Roger Herbert, Karin Högdahl, and Uppsala University, who supported the first version of the Geochase in Uppsala. In addition, I thank my colleagues at TU Delft: Rémi Charton, Tobias Schmiedel and Jan Kees Blom for their insights of organising a chase for students.
+This HE Teaching Material was supported by the [EGU Higher Education Teaching Material Grant 2025](https://www.egu.eu/education/teg/). I would like to thank _myPeek_ for technical support and advice, Roger Herbert, Karin Högdahl, and Uppsala University, who supported the first version of the Geochase in Uppsala. In addition, I thank my colleagues at TU Delft: Rémi Charton, Tobias Schmiedel and Jan Kees Blom for their insights of organising a chase for students.
 

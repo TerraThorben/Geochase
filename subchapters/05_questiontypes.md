@@ -65,3 +65,12 @@ e.g. - avoid:
   otherwise you need to update the answers each year (which is an additional task and time to think about every year).
   
 
+## Pictures and Illustrations
+
+Do you need pictures or illustrations to support your question or text? In most cases, pictures from the location are great, since these also verify that the students are looking at the right facade. However, there are some free databases with great picutres. 
+Check it out:
+
+- [ImageGeo](https://imaggeo.egu.eu/)
+- [Mindat.org](https://www.mindat.org/)
+- [Streckeisen.it](https://www.alexstrekeisen.it/english/pluto/quartz.php)
+- [Geologic Pic](https://geologypics.com/geological_entries/gallery/)

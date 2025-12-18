@@ -22,7 +22,7 @@ E.g.,
 ### Multiple Choice
 The advantage of multiple-choice questions is that they allow you to assign correct and incorrect answers and provide direct feedback after the student has answered. Direct feedback is important for students' learning. Providing answers also gives students confidence, since they are new to this field and may not have learnt everything by heart yet.
 
-### Taking Picutres
+### Taking Pictures
 Since students use their smartphone during the chase, they should take pictures for a) their own memory and b) sharing moments with others.
 
 E.g.

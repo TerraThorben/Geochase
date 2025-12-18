@@ -54,5 +54,5 @@ Specific Ideas and Questions:
 
 ## Acknowledgements
 
-I would like to thank _myPeek_ for technical support and advice, Roger Herbert, Karin Högdahl, and Uppsala University, who supported the first version of the Geochase in Uppsala. In addition, I thank my colleagues at TU Delft: Rémi Charton, Tobias Schmiedel and Jan Kees Blom for their insights of organising a chase for students.
+This HE Teaching Material was supported by the EGU Higher Education Teaching Material Grant 2025. I would like to thank _myPeek_ for technical support and advice, Roger Herbert, Karin Högdahl, and Uppsala University, who supported the first version of the Geochase in Uppsala. In addition, I thank my colleagues at TU Delft: Rémi Charton, Tobias Schmiedel and Jan Kees Blom for their insights of organising a chase for students.
 

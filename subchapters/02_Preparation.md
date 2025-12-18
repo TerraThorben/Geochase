@@ -51,7 +51,7 @@ The first two apps work very similar and the backends are straightforward to set
 _The evaluation the Geochase in Uppsala states that 93% of all participant prefer an app version instead of paper._
 
 
-![Paper vs App](img/GC_Paper_vs_App.jpg)
+![Paper vs App](img/GC_PenPaper_vs_App.jpg)
 
 
 ## Setting up with an App

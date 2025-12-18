@@ -15,7 +15,7 @@ Choose stations/locations, which are expected to last long. E.g., sculptures, te
 
 - Designing a chase **on paper** might save time compared to setting up an chase on an app by describing a locations, questions, answer possibilites and feedback. But, evaluating the answers on the paper chase takes time afterwards. In addition, student receive immediate feedback (if not an open text answer), which helps learning immediatly. It is worth to invest in using an app service to get technical support. 
 
-![Paper version](img\GC_paperversion.jpg)
+![Paper version](img/GC_paperversion.jpg)
 
 
 

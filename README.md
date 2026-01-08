@@ -1,4 +1,7 @@
-# Geochase
+### - The Geochase -
+# Using Urban Geology to enhance the student´s learning outcome 
+### A Guide for Designing a Geochase through a City
+
 
 ## Why?
 ### Enhancing Student Learning Outcome
@@ -51,9 +54,12 @@ Specific Ideas and Questions:
 - [Skills in Geology](https://github.com/TerraThorben/Geochase/blob/main/subchapters/09_geoskills.md)
 - [local Stations](https://github.com/TerraThorben/Geochase/blob/main/subchapters/10_stations.md)
 - [Teambuilding and Fun](https://github.com/TerraThorben/Geochase/blob/main/subchapters/11_teambuilding.md)
-
+- [Additional Examples and References](https://github.com/TerraThorben/Geochase/blob/main/subchapters/12_references.md)
 
 ## Acknowledgements
 
 This HE Teaching Material was supported by the [EGU Higher Education Teaching Material Grant 2025](https://www.egu.eu/education/teg/). I would like to thank _myPeek_ for technical support and advice, Roger Herbert, Karin Högdahl, and Uppsala University, who supported the first version of the Geochase in Uppsala. In addition, I thank my colleagues at TU Delft: Rémi Charton, Tobias Schmiedel and Jan Kees Blom for their insights of organising a chase for students.
 
+
+![Geochase in Uppsala](subchapters/img/GC_GC_overview_eg1.jpg)
+Figure: Schematic overview of the app with map showing the geochase locations of Uppsala (left), potential information about rocks and questions (top right and middle), and student how received a question on the app while walking through the chase (bottom right).

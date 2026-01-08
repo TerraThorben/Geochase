@@ -61,5 +61,5 @@ Specific Ideas and Questions:
 This HE Teaching Material was supported by the [EGU Higher Education Teaching Material Grant 2025](https://www.egu.eu/education/teg/). I would like to thank _myPeek_ for technical support and advice, Roger Herbert, Karin Högdahl, and Uppsala University, who supported the first version of the Geochase in Uppsala. In addition, I thank my colleagues at TU Delft: Rémi Charton, Tobias Schmiedel and Jan Kees Blom for their insights of organising a chase for students.
 
 
-![Geochase in Uppsala](subchapters/img/GC_GC_overview_eg1.jpg)
+![Geochase in Uppsala](subchapters/img/GC_overview_eg1.jpg)
 Figure: Schematic overview of the app with map showing the geochase locations of Uppsala (left), potential information about rocks and questions (top right and middle), and student how received a question on the app while walking through the chase (bottom right).
